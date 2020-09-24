@@ -12,5 +12,5 @@ global.SALT_KEY = 'f5b99242-6504-4ca3-90f2-05e78e5761ef';
 module.exports = {
 
     /** URL database */
-    URL_DB: 'mongodb+srv://thiago:123@cluster0.sckas.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority'
+    URL_DB: 'mongodb+srv://usuário:senha@cluster0.sckas.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority'
 };
