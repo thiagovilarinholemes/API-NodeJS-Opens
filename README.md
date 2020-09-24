@@ -1,5 +1,5 @@
 # API-NodeJS-Opens
-Este repositório contém uma API em NodeJS para apresentação a empresa Opens.
+Este repositório contém uma API em NodeJS utilizando Banco de Dados MongoDB para apresentação a empresa Opens.
 
 <hr>
 
